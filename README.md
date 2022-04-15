@@ -1,4 +1,11 @@
 ### WordPress/PHP developer and CEO of <a href="https://inspireweb.nl/" target="_blank">InspireWeb</a>
+# Currently working as developer at TwoBrands
+# Have experience with JavaScript, Vue.js, Laravel, C# and HTML
+# Has worked with Discord and JavaScript for Discord Bots
+
+# Currently working on new site for InspireWeb
+# Learning SEO for better marketplacement and service for my customers
+
 
 <!--
 **MelleLintje06/MelleLintje06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
