@@ -1,4 +1,5 @@
 ### WordPress/PHP developer and CEO of <a href="https://inspireweb.nl/" target="_blank">InspireWeb</a>
+________________
 #### Currently working as developer at TwoBrands
 #### Have experience with JavaScript, Vue.js, Laravel, C# and HTML
 #### Has worked with Discord and JavaScript for Discord Bots
