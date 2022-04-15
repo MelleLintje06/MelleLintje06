@@ -1,4 +1,4 @@
-### Hi there 👋
+### WordPress/PHP developer 
 
 <!--
 **MelleLintje06/MelleLintje06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
