@@ -3,8 +3,8 @@
 #### Have experience with JavaScript, Vue.js, Laravel, C# and HTML
 #### Has worked with Discord and JavaScript for Discord Bots
 
-# Currently working on new site for InspireWeb
-# Learning SEO for better marketplacement and service for my customers
+##### Currently working on new site for InspireWeb
+##### Learning SEO for better marketplacement and service for my customers
 
 
 <!--
