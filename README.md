@@ -2,7 +2,7 @@
 #### Currently working as developer at TwoBrands
 #### Have experience with JavaScript, Vue.js, Laravel, C# and HTML
 #### Has worked with Discord and JavaScript for Discord Bots
-
+________________
 ##### Currently working on new site for InspireWeb
 ##### Learning SEO for better marketplacement and service for my customers
 
