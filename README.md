@@ -1,12 +1,8 @@
-### WordPress/PHP developer and CEO of <a href="https://inspireweb.nl/" target="_blank">InspireWeb</a>
+### App Developer specilized in Flutter at <a href="https://www.schippers.eu/">Schippers MS</a>.
 ________________
-#### Currently also working as developer at <a href="https://www.twobrands.nl/">TwoBrands</a>
-#### Intern at <a href="https://www.schippers.eu/">Schippers MS</a>
-#### Have experience with JavaScript, Vue.js, Laravel, C# and HTML
-#### Has worked with Discord and JavaScript for Discord Bots
+#### Have experience with JavaScript, Vue.js, Laravel, C#, HTML, and more
 ________________
-##### Currently working on new site for InspireWeb
-##### Learning SEO for better marketplacement and service for my customers
+### Learning Kotlin
 
 
 <!--
